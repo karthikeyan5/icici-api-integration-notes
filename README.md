@@ -1,2 +1,2 @@
-# laughing-octo-telegram
-ICICI API Integration notes and code snippets
+# icici-api-integration-notes
+ICICI Bank API Integration notes and code snippets
